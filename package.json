@@ -1,7 +1,7 @@
 {
   "name": "fx-template-to-pdf-node",
   "description": "Create pdf document from template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "jason jiang",
