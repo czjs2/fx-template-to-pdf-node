@@ -1,28 +1,26 @@
 {
-  "name": "tfk-template-to-pdf-node",
+  "name": "fx-template-to-pdf-node",
   "description": "Create pdf document from template",
   "version": "1.0.0",
   "license": "MIT",
   "author": {
-    "name": "Jonas Enge",
-    "email": "jonas.enge@gmail.com",
-    "url": "https://github.com/maccyber"
+    "name": "jason jiang",
+    "email": "czjs2@qq.com",
+    "url": "https://github.com/czjs2"
   },
   "keywords": [
     "convert",
     "pdf",
-    "template",
-    "tfk",
-    "Telemark fylkeskommune"
+    "template"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/telemark/tfk-template-to-pdf-node.git"
+    "url": "http://github.com/czjs2/fx-template-to-pdf-node.git"
   },
   "bugs": {
-    "url": "http://github.com/telemark/tfk-template-to-pdf-node/issues"
+    "url": "http://github.com/czjs2/fx-template-to-pdf-node/issues"
   },
-  "homepage": "https://github.com/telemark/tfk-template-to-pdf-node",
+  "homepage": "https://github.com/czjs2/fx-template-to-pdf-node",
   "engines": {
     "node": ">=4.6.2"
   },
