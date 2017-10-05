@@ -1,3 +1,11 @@
+在ubuntu下 必须安装 unoconv  apt install unoconv . Unoconv is required, which requires LibreOffice (or OpenOffice.)
+惠普打印机必须安装hplip及相关hplip-plugin
+
+
+
+
+
+
 [![Build Status](https://travis-ci.org/telemark/tfk-template-to-pdf-node.svg?branch=master)](https://travis-ci.org/telemark/tfk-template-to-pdf-node)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-template-to-pdf-node
